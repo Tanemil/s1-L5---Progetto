@@ -6,6 +6,10 @@ body {
     text-align: center;
 }
 
+main {
+    margin-top: 3rem;
+}
+
 .azzurrino {
     color: #25a2c3;
     font-family: 'Montserrat', sans-serif;
@@ -100,7 +104,7 @@ h1.azzurrino{
     width: 100%;
 }
 
-.descrizione{
+.schede .descrizione{
     font-size: 0.8rem;
     margin: 2rem 1.5rem
 }
@@ -130,5 +134,9 @@ footer a{
 
 footer p:last-child{
     font-size: 0.8rem;
+}
+
+i {
+    color: white;
 }
 
