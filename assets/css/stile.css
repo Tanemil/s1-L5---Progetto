@@ -45,7 +45,6 @@ h1.azzurrino{
 #container_header button{
     border: none;
     background-color: #f04c2f;
-    color: white;
     font-family: 'Montserrat', sans-serif;
     height: 3rem;
     width: 9rem;
@@ -53,6 +52,11 @@ h1.azzurrino{
     margin-bottom: 3rem;
     font-size: 1rem;
     text-transform: uppercase;
+}
+
+#button {
+    text-decoration: none;
+    color: white;
 }
 
 .descrizione{
