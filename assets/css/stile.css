@@ -18,14 +18,11 @@ main {
 
 #container_logo {
     background-color: black;
-    height: 10rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 #container_logo img{
     width: 40%;
+    padding: 2.5rem 0;
 }
 
 #container_header{
